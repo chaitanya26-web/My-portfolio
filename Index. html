@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chaitanya | AI/ML Developer</title>
+<style>
+body{font-family:Arial,sans-serif;background:#0f172a;color:white;text-align:center;padding:40px}
+h1{font-size:40px;color:#38bdf8}
+.card{background:#1e293b;padding:20px;border-radius:12px;margin:20px auto;max-width:500px}
+a{color:#38bdf8;text-decoration:none}
+</style>
+</head>
+<body>
+<h1>Hi, I'm Chaitanya 👋</h1>
+<p>2nd Year AI & ML Student | Future AI + Web Developer</p>
+
+<div class="card">
+<h2>🚀 What I'm Learning</h2>
+<p>60-Day Web Dev Challenge - Day 1</p>
+<p>HTML, CSS, JavaScript, React, Node.js</p>
+</div>
+
+<div class="card">
+<h2>📂 My Goals</h2>
+<p>Build 3 Projects | Crack High-Paying Internship</p>
+<p>GitHub: Chaitanya26-web</p>
+</div>
+
+<div class="card">
+<h2>📫 Connect</h2>
+<p><a href="https://github.com/Chaitanya26-web">GitHub</a> | Learning Daily 9AM / 6PM</p>
+</div>
+
+</body>
+</html>
